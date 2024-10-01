@@ -1,0 +1,6 @@
+
+ total familias: 2
+ media de salarios: 1500.0
+ media de filhos: 3.5
+ maior salario: 2000
+ menor salario: 1000
